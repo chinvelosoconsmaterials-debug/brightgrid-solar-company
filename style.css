@@ -442,6 +442,7 @@ p {
   background: radial-gradient(circle at 30% 0%, var(--accent-blue), var(--accent-orange));
 }
 
+
 /* Section header */
 .section-header {
   text-align: center;
